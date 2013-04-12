@@ -1,0 +1,8 @@
+# Files to ignore
+*.sublime-project
+*.sublime-workspace
+*-MarkdownPadPreview.html
+
+# Dirs to ignore
+components
+node_modules
