@@ -1,0 +1,22 @@
+{
+  "name": "fsquery",
+  "version": "0.0.0",
+  "description": "File system query module",
+  "main": "./lib/fsquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "files",
+    "directories",
+    "query"
+  ],
+  "author": "James Skinner <spiralx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob-js": "0.0.1",
+    "glob": "~3.1.21",
+    "underscore": "~1.4.4"
+  }
+}
